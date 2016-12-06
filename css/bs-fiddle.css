@@ -1,0 +1,21 @@
+body{
+  background-color:#ededed;
+  color:green;  
+ }
+#leftDashBoard{
+  background-color:#345;
+  color:white;
+  border:solid 1px red;
+  padding:10px;
+}
+#mainContent{
+  background-color:#f4f5f7;
+  color:#345;
+  border:solid 1px red;
+  padding:10px;
+}
+#lastRow{
+  background-color:#dfdfdf;
+  color:#345;
+  border:solid 1px green;
+}
